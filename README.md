@@ -1,43 +1,69 @@
-# Yo, I'm Ibnu! 👋
+<h1 align="center">Hi 👋, I'm Ibnu Rizal</h1>
 
-> Just a student trying to build useful things with code.
-
-## 🙋 Who?
-I'm **Ibnu Rizal Mutaqim**, an Informatics student who enjoys building projects in **Python**, **C++**, **Go**, and web technologies.  
-I like working on things related to **computer vision**, **programming assignments**, and simple apps that solve real problems.
-
-## 🧰 My Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-## 📌 Highlight Projects
-- **Deteksi-ekspresi-manusia**  
-  Project Python untuk deteksi ekspresi manusia.
-
-- **deteksi_pengunjung_wisata**  
-  Project Python untuk deteksi / monitoring pengunjung wisata.
-
-- **Praktikum_ABP**  
-  Tugas dan laporan praktikum mata kuliah Aplikasi Berbasis Platform.
-
-- **Tubes-Alpro-2**  
-  Project Go untuk tugas besar algoritma / pemrograman.
-
-## 📊 GitHub Stats
-![Ibnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbnuRizalll&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuRizalll&layout=compact&theme=tokyonight)
-
-## 🚀 What's in here?
-This is basically my coding space. You'll find:
-- campus projects
-- programming practice
-- computer vision experiments
-- simple apps and coursework
-
-## 🌐 Connect
-- GitHub: [@IbnuRizalll](https://github.com/IbnuRizalll)
+<p align="center">
+Informatics student • Passionate about coding & building useful projects
+</p>
 
 ---
-_Still learning, still building._
+
+### 👨‍💻 About Me
+
+- 🎓 Informatics Student
+- 💻 Interested in **Web Development & Programming**
+- 🚀 Currently learning **Next.js, Python, and Go**
+- 📚 Building projects while improving problem solving skills
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,cpp,js,html,css,nextjs,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IbnuRizalll&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuRizalll&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=IbnuRizalll&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🚀 Highlight Projects
+
+- 🔹 **DaayComTech Website**  
+  Company profile + product catalog built with Next.js, Prisma, Supabase.
+
+- 🔹 **Tubes Alpro 2**  
+  Programming project for algorithm course.
+
+- 🔹 **Praktikum Struktur Data**  
+  C++ exercises for data structures.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+✨ Keep learning, keep building.
+</p>
