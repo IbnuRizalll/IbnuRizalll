@@ -43,18 +43,6 @@ Informatics student • Passionate about coding & building useful projects
 
 ---
 
-### 🚀 Highlight Projects
-
-- 🔹 **DaayComTech Website**  
-  Company profile + product catalog built with Next.js, Prisma, Supabase.
-
-- 🔹 **Tubes Alpro 2**  
-  Programming project for algorithm course.
-
-- 🔹 **Praktikum Struktur Data**  
-  C++ exercises for data structures.
-
----
 
 ### 🐍 Contribution Snake
 
