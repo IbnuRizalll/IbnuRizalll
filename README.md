@@ -35,15 +35,6 @@ Informatics student • Passionate about coding & building useful projects
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=IbnuRizalll&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
 ### 🐍 Contribution Snake
 
 <p align="center">
